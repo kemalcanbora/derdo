@@ -14,23 +14,23 @@ You just need to copy any links on the genius.com site and paste it into sources
 
 ## Example Lyrics
 
-Bir tenhada can cananı <br>
-Ölürüm sevdiğim zehirim<br>
-Sözüm yok şu benden<br>
-Dil gizli<br>
-Gönüldür Coştu Böyle<br>
-Tatli dillim guler yuzlum ey ceylan<br>
-Gonlum hep seni ariyor neredesin<br>
-Ben yandım aşkın<br>
-Gonlum hep seni ariyor neredesin<br>
-Gonlum hep seni ariyor neredesin<br>
-Yolma gayrı, yolma leyli leyli, gelme leyli leyli<br>
-Bir tenhada can cananı<br>
-Ben yandım aşkın<br>
-Sanki kalbimi bilerek yuzume<br>
-Boynu bükük bir garibim yuzum<br>
-Kâtip Ol Da Yaz Gayri<br>
-Seni ilelebet benimsin<br>
-Ölürsem de<br>
-Evvelim sen oldun kahirim<br>
-Yol gizli<br>
+Fifa, PES <br>
+Gözyaşım sen oldun kahirim<br>
+Vay dünya dünya, fanisin<br>
+Hayale aldandım boşuna<br>
+Ki çalaca'z Kuku, SLS'i iltifat<br>
+Yalan olur<br>
+3, 2, 1... bitir<br>
+Dangerous suları Los Angeles<br>
+Bi' kez olsun bizi çalmadın adamım<br>
+Sana maraton nigga benim için jog<br>
+Popüleriz gibi<br>
+Göremez işini bir-iki<br>
+Kulak asmadan onun bunun sözüne<br>
+Bir Kazma Al Bir Kürek Aman<br>
+Akılda kalır (yes), tipim havalı<br>
+Göremez işini bir-iki<br>
+Baba çal bizi çal (çal), bizi de bi'<br>
+Beni yakalarsan sakın acıma canım<br>
+Bugün Etiler, yarın Ankara Tunalı<br>
+Bilmem sıhhat bulmaz hicraneler<br>
