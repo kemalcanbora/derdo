@@ -9,7 +9,7 @@ import (
 	"strings"
 )
 
-func crawl_lyric(url string)  string  {
+func crawl_lyric(url string) string {
 	var lyric string
 
 	res, _ := http.Get(url)
@@ -31,36 +31,38 @@ func crawl_lyric(url string)  string  {
 func main() {
 	sources := []string{
 		"https://genius.com/Neset-ertas-evvelim-sen-oldun-lyrics",
-		"https://genius.com/Neset-ertas-gonul-dag-lyrics",
+		"https://genius.com/Ben-fero-3-2-1-lyrics",
 		"https://genius.com/Neset-ertas-neredesin-sen-lyrics",
 		"https://genius.com/Neset-ertas-zuluf-dokulmus-yuze-lyrics",
-		"https://genius.com/Selda-bagcan-niye-cattn-kaslarn-lyrics",
+		"https://genius.com/Ben-fero-demet-akaln-lyrics",
+		"https://genius.com/Ruhi-su-el-vurup-yaremi-incitme-tabip-lyrics",
 	}
 
-	replace_list:= []string{
+	replace_list := []string{
 		"[Verse 1]",
 		"[Verse 2]",
 		"[Verse 3]",
 		"[Chorus]",
 		"[Pre-Chorus]",
 		"[?]",
+		"[Nakarat]",
+		"[Intro & Prodüktör]",
 	}
 
 	chain := gomarkov.NewChain(2)
-	for _,item := range sources{
+	for _, item := range sources {
 		lyric := crawl_lyric(item)
 
-		for _,rm_key :=range replace_list{
-			lyric  = strings.Replace(lyric,rm_key,"",-1)
+		for _, rm_key := range replace_list {
+			lyric = strings.Replace(lyric, rm_key, "", -1)
 		}
 
 		for _, line := range strings.Split(lyric, "\n") {
 			if len(line) != 0 {
-				chain.Add(strings.Split(line," "))
+				chain.Add(strings.Split(line, " "))
 			}
 		}
 	}
-
 
 	order := chain.Order
 	tokens := make([]string, 0)
@@ -72,7 +74,6 @@ func main() {
 		tokens = append(tokens, next)
 	}
 	fmt.Println(strings.Join(tokens[order:len(tokens)-2], " "))
-
 
 	sum := 0
 	for i := 1; i < 20; i++ {
