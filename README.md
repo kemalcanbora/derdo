@@ -14,23 +14,23 @@ You just need to copy any links on the genius.com site and paste it into sources
 
 ## Example Lyrics
 
-Bir tenhada can cananı
-Ölürüm sevdiğim zehirim
-Sözüm yok şu benden
-Dil gizli
-Gönüldür Coştu Böyle
-Tatli dillim guler yuzlum ey ceylan
-Gonlum hep seni ariyor neredesin
-Ben yandım aşkın
-Gonlum hep seni ariyor neredesin
-Gonlum hep seni ariyor neredesin
-Yolma gayrı, yolma leyli leyli, gelme leyli leyli
-Bir tenhada can cananı
-Ben yandım aşkın
-Sanki kalbimi bilerek yuzume
-Boynu bükük bir garibim yuzum
-Kâtip Ol Da Yaz Gayri
-Seni ilelebet benimsin
-Ölürsem de
-Evvelim sen oldun kahirim
-Yol gizli
+Bir tenhada can cananı <br>
+Ölürüm sevdiğim zehirim<br>
+Sözüm yok şu benden<br>
+Dil gizli<br>
+Gönüldür Coştu Böyle<br>
+Tatli dillim guler yuzlum ey ceylan<br>
+Gonlum hep seni ariyor neredesin<br>
+Ben yandım aşkın<br>
+Gonlum hep seni ariyor neredesin<br>
+Gonlum hep seni ariyor neredesin<br>
+Yolma gayrı, yolma leyli leyli, gelme leyli leyli<br>
+Bir tenhada can cananı<br>
+Ben yandım aşkın<br>
+Sanki kalbimi bilerek yuzume<br>
+Boynu bükük bir garibim yuzum<br>
+Kâtip Ol Da Yaz Gayri<br>
+Seni ilelebet benimsin<br>
+Ölürsem de<br>
+Evvelim sen oldun kahirim<br>
+Yol gizli<br>
